@@ -9,18 +9,15 @@ Project sederhana untuk menampilkan dashboard trading cryptocurrency dengan Reac
 - Responsive design
 
 ## Instalasi
-```bash
 git clone https://github.com/andi-nugroho/cryptocurrency-trading-view.git
 cd cryptocurrency-trading-view
 npm install
 npm run dev
 
 ## Build
-```bash
 npm run build
 
 ## Struktur Project
-```bash
 src/
 ├── components/     # Komponen UI
 ├── hooks/          # Custom hooks
@@ -32,5 +29,5 @@ src/
 - React
 - Vite
 - Typescript
-- Tailwind CSS
+- Tailwind CSS (opsional)
 - TradingView Widget
