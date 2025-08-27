@@ -1,1 +1,36 @@
-# Welcome to your Lovable Project!
+# Cryptocurrency Trading Dashboard
+
+Project sederhana untuk menampilkan dashboard trading cryptocurrency dengan React + Vite.
+
+## Fitur
+- Integrasi TradingView widget
+- Framework: React + Vite
+- Typescript support
+- Responsive design
+
+## Instalasi
+```bash
+git clone https://github.com/andi-nugroho/cryptocurrency-trading-view.git
+cd cryptocurrency-trading-view
+npm install
+npm run dev
+
+## Build
+```bash
+npm run build
+
+## Struktur Project
+```bash
+src/
+├── components/     # Komponen UI
+├── hooks/          # Custom hooks
+├── pages/          # Halaman dashboard
+├── App.tsx
+└── main.tsx
+
+## Tech Stack
+- React
+- Vite
+- Typescript
+- Tailwind CSS
+- TradingView Widget
